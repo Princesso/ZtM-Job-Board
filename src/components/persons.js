@@ -2936,4 +2936,20 @@ export const persons = [
       country: "Nigeria"
     }
   },
+  {
+    id: 176,
+    name: "Egbuna Oluebube Princess",
+    img: "https://avatars3.githubusercontent.com/u/13929923?s=400&u=a50025daa43063896b1e437e65105b6f21b44887&v=4",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/oluebube-princess-egbuna-77682a120/",
+      github: "https://github.com/Princesso"
+    },
+    jobTitle: "Software Developer",
+    location: {
+      city: "Lagos",
+      state: "Lagos",
+      country: "Nigeria"
+    }
+  },
 ];
